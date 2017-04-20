@@ -50,7 +50,7 @@ encryptionKey: "0a5f0c0670219dc049"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
+#wptKey: "YOUR_ENCRYPTED_WEBPAGETEST_KEY"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
